@@ -1,47 +1,132 @@
-# ⚡ Welcome to my workspace
+# ⚡ Umang Thapa — Developer & AI Builder
 
 <p align="center">
-<pre>
-      🎬 [ SYSTEM START ]
-      ___________________
-     |  _____________  |
-     | |             | |    USER: umangthapa1
-     | |   0     0   | |    ROLE: Web Dev & AI Student
-     | |      ^      | |    CORE: Python / Node.js
-     | |    \___/    | |    GOAL: Exhibition 2026 🚀
-     | |_____________| |    STATUS: Building AI 🎙️
-     |_________________|    OS: EndeavourOS / Arch
-       _|           |_      LOC: Nepal 🇳🇵
-      (_______________)
-</pre>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Web+Developer;AI+Enthusiast;Python+%7C+Node.js;Building+SahayogiV2;Exhibition+2026+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=umangthapa1&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack & Tools
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+## 🧠 About Me
+
+```bash
+> whoami
+Umang Thapa
+Web Developer & AI Student
+Based in Nepal 🇳🇵
+
+> current_focus
+Building SahayogiV2 (AI Voice Assistant)
+Preparing for Exhibition 2026 🚀
+Optimizing productivity workflows
+```
+
+I build **automation tools, AI-powered assistants, and clean developer-focused projects** using Python and JavaScript.
+Passionate about Linux, CLI workflows, and modular system design.
 
 ---
 
-### 🚀 Featured Project: AI Voice Assistant
-I'm currently developing a custom **AI Voice Assistant** for my upcoming college Science & IT exhibition. 
-- **Core:** Python-based logic with speech-to-text integration.
-- **Vibe:** A minimalist, terminal-centric "Jarvis" to automate my Linux workflow.
-- **Progress:** Integrating home lab controls via CasaOS.
+## 🛠️ Tech Stack
 
----
-
-### 📈 GitHub Ecosystem
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=umangthapa1&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=umangthapa1&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css,git,linux,vscode&theme=dark" />
+</p>
+
+```bash
+Languages   : Python, JavaScript, HTML, CSS
+Runtime     : Node.js
+Tools       : Git, VSCode, CLI
+OS          : EndeavourOS / Arch Linux
+Focus       : AI, Automation, Productivity Systems
+```
+
+---
+
+## 🚀 Featured Project — SahayogiV2
+
+```bash
+$ about SahayogiV2
+```
+
+**SahayogiV2** is a modular Python-powered AI assistant designed to:
+
+* 🎙️ Process voice commands
+* 🧠 Execute intelligent task workflows
+* 📜 Automate repetitive scripting tasks
+* 🔌 Support scalable module extensions
+
+🔗 Repository: [https://github.com/umangthapa1/SahayogiV2](https://github.com/umangthapa1/SahayogiV2)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umangthapa1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umangthapa1&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umangthapa1&theme=tokyonight&hide_border=true" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umangthapa1&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ---
 
-### 🔗 Connect with me
-[Gym Streak Tracker](https://github.com/umangthapa1/gym-streak-tracker) | [Discord](#)
+## 🐍 Contribution Graph Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/umangthapa1/umangthapa1/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+> ⚠️ To enable the snake animation, create a repository named exactly like your username (`umangthapa1`) and set up the GitHub Action for **Platane/snk**.
+
+---
+
+## 📂 Projects (CLI Style)
+
+```bash
+$ ls featured
+
+autotyper
+gym-streak-tracker
+botbiruwa
+SahayogiV2
+```
+
+---
+
+## 🌐 Connect With Me
+
+```bash
+$ connect --all
+```
+
+* 🌍 Portfolio  : [https://httpsumang.vercel.app/](https://httpsumang.vercel.app/)
+* 💬 Discord    : [https://discord.gg/fajNNSGKCA](https://discord.gg/fajNNSGKCA)
+* 🐙 GitHub     : [https://github.com/umangthapa1](https://github.com/umangthapa1)
+
+---
+
+## 💬 Community — Coder's Hub
+
+Join the growing developer community for collaboration, learning, and builds.
+
+🔗 [https://discord.gg/fajNNSGKCA](https://discord.gg/fajNNSGKCA)
+
+---
+
+## 🔥 2026 Roadmap
+
+* [ ] Expand SahayogiV2 into full AI ecosystem
+* [ ] Add NLP enhancements
+* [ ] Build production-grade web apps
+* [ ] Showcase at Exhibition 2026 🚀
+
+---
+
+<p align="center">
+  <b>"Build. Break. Improve. Repeat."</b>
+</p>
