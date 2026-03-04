@@ -116,12 +116,11 @@ $ connect --all
 * 🐙 GitHub     : [https://github.com/umangthapa1](https://github.com/umangthapa1)
 
 ---
-
 ## 💬 Discord Community
 
 **Coder’s Hub** – A place for coders to hang out & collaborate 👨‍💻👩‍💻
 
-[![Discord Members](https://img.shields.io/discord/1125766513375334461?color=7289da&label=Total%20Members&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/fajNNSGKCA)
+![Discord Online](https://img.shields.io/discord/1125766513375334461?color=7289da&label=Online&logo=discord&logoColor=white&style=for-the-badge)
 
 🔗 [Join the Community](https://discord.gg/fajNNSGKCA)
 
