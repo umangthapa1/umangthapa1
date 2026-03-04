@@ -1,7 +1,7 @@
 # ⚡ Umang Thapa — Developer & AI Builder
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Web+Developer;AI+Enthusiast;Python+%7C+Node.js;Building+SahayogiV2;Exhibition+2026+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Web+Developer;AI+Enthusiast;Python+%7C+Node.js;Building+S.A.H.A.Y.O.G.I;Exhibition+2026+🚀" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@ Web Developer & AI Student
 Based in Nepal 🇳🇵
 
 > current_focus
-Building SahayogiV2 (AI Voice Assistant)
+Building S.A.H.A.Y.O.G.I (Desktop Voice Assistant)
 Preparing for Exhibition 2026 🚀
 Optimizing productivity workflows
 ```
@@ -45,20 +45,31 @@ Focus       : AI, Automation, Productivity Systems
 
 ---
 
-## 🚀 Featured Project — SahayogiV2
+## 🚀 Featured Project — S.A.H.A.Y.O.G.I (Desktop Voice Assistant)
 
 ```bash
-$ about SahayogiV2
+$ about S.A.H.A.Y.O.G.I
 ```
 
-**SahayogiV2** is a modular Python-powered AI assistant designed to:
+**S.A.H.A.Y.O.G.I** is a **multilingual desktop AI voice assistant** built with:
 
-* 🎙️ Process voice commands
-* 🧠 Execute intelligent task workflows
-* 📜 Automate repetitive scripting tasks
-* 🔌 Support scalable module extensions
+* 🧠 **Ollama (Gemma 3:4B)** — local AI model for natural conversation
+* 🎤 **Voice Recognition** — Google Speech Recognition for hands‑free control
+* 🔊 **Text‑to‑Speech** — Piper for rich English and Nepali voices
+* 🖥️ **PyQt5 UI** — modern embedded UI using a web view
 
-🔗 Repository: [https://github.com/umangthapa1/SahayogiV2](https://github.com/umangthapa1/SahayogiV2)
+### 🛠 Major Features
+
+* 🗣️ Voice-driven commands & interactions
+* 🌐 Web browsing shortcuts (YouTube, Google, Facebook)
+* 🎶 Media control (Play music on YouTube)
+* ⏰ Time & weather queries (e.g., "What’s the weather?")
+* 📜 Code generation requests (e.g., HTML, Python code)
+* 📰 Live news fetching and topic detection
+* 💻 System control (Open apps, shutdown, etc.)
+* 🌏 Full **English + Nepali language support**
+
+🔗 Repository: [SahayogiV2](https://github.com/umangthapa1/SahayogiV2)
 
 ---
 
@@ -70,7 +81,7 @@ $ about SahayogiV2
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umangthapa1&theme=tokyonight&hide_border=true" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com?user=umangthapa1&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
 
 ---
@@ -106,20 +117,21 @@ $ connect --all
 
 ---
 
-## 💬 Community — Coder's Hub
+## 💬 Discord Community
 
-Join the growing developer community for collaboration, learning, and builds.
+**Coder’s Hub** – A place for coders to hang out & collaborate 👨‍💻👩‍💻
 
-🔗 [https://discord.gg/fajNNSGKCA](https://discord.gg/fajNNSGKCA)
+[![Discord Members](https://img.shields.io/discord/1125766513375334461?color=7289da&label=Total%20Members&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/fajNNSGKCA)
+
+🔗 [Join the Community](https://discord.gg/fajNNSGKCA)
 
 ---
 
 ## 🔥 2026 Roadmap
 
-* [ ] Expand SahayogiV2 into full AI ecosystem
+* [ ] Expand S.A.H.A.Y.O.G.I into full AI ecosystem
 * [ ] Add NLP enhancements
 * [ ] Build production-grade web apps
-* [ ] Showcase at Exhibition 2026 🚀
 
 ---
 
