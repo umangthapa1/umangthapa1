@@ -19,7 +19,7 @@ jobs:
           github_user_name: umangthapa1
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#7aa2f7&color_dots=#1a1b26,#24283b,#414868,#7dcfff,#bb9af7
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
