@@ -78,12 +78,8 @@ $ about SahayogiV2
 ## 🐍 Contribution Graph Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/umangthapa1/umangthapa1/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/umangthapa1/umangthapa1/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
-> ⚠️ To enable the snake animation, create a repository named exactly like your username (`umangthapa1`) and set up the GitHub Action for **Platane/snk**.
-
----
 
 ## 📂 Projects (CLI Style)
 
