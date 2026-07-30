@@ -1,7 +1,7 @@
 # ⚡ Umang Thapa — Developer & AI Builder
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Web+Developer;AI+Enthusiast;Python+%7C+Node.js;Building+MINDBASE;Exhibition+2026+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+Builder;Python+%7C+JavaScript;Building+MINDBASE;Open+Source+Enthusiast+🚀" />
 </p>
 
 <p align="center">
@@ -10,70 +10,77 @@
 
 ---
 
-## 🧠 About Me
+# 🧠 About Me
 
 ```bash
 > whoami
 Umang Thapa
-Web Developer & AI Student
+Full-Stack Developer & AI Builder
 Based in Nepal 🇳🇵
 
 > current_focus
-Building S.A.H.A.Y.O.G.I (Desktop Voice Assistant)
-Preparing for Exhibition 2026 🚀
-Optimizing productivity workflows
+Building MINDBASE
+Exploring Local AI & Agentic Systems
+Creating productivity tools
 ```
 
-I build **automation tools, AI-powered assistants, and clean developer-focused projects** using Python and JavaScript.
-Passionate about Linux, CLI workflows, and modular system design.
+I enjoy building **AI-powered applications, developer tools, and productivity software** that solve real-world problems. My interests include local LLMs, intelligent agents, automation, and designing software that feels fast, intuitive, and useful.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css,git,linux,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,typescript,nodejs,fastapi,html,css,sqlite,git,linux,docker,vscode&theme=dark" />
 </p>
 
 ```bash
-Languages   : Python, JavaScript, HTML, CSS
-Runtime     : Node.js
-Tools       : Git, VSCode, CLI
-OS          : EndeavourOS / Arch Linux
-Focus       : AI, Automation, Productivity Systems
+Languages   : Python, JavaScript, TypeScript
+Backend     : FastAPI, SQLite
+Frontend    : HTML, CSS, JavaScript
+AI          : Ollama, Local LLMs, NLP, RAG
+Tools       : Git, Docker, Linux, VS Code
+Focus       : AI, Productivity, Automation
 ```
 
 ---
 
-## 🚀 Featured Project — S.A.H.A.Y.O.G.I (Desktop Voice Assistant)
+# 🚀 Featured Project — MINDBASE
 
 ```bash
-$ about S.A.H.A.Y.O.G.I
+$ about mindbase
 ```
 
-**S.A.H.A.Y.O.G.I** is a **multilingual desktop AI voice assistant** built with:
+**MINDBASE** is an **AI-powered personal workspace** that combines chat, notes, documents, email, research, memory, and task management into a single intelligent interface.
 
-* 🧠 **Ollama (Gemma 3:4B)** — local AI model for natural conversation
-* 🎤 **Voice Recognition** — Google Speech Recognition for hands‑free control
-* 🔊 **Text‑to‑Speech** — Piper for rich English and Nepali voices
-* 🖥️ **PyQt5 UI** — modern embedded UI using a web view
+Instead of switching between multiple apps, MINDBASE acts as a centralized AI workspace that understands natural language and helps organize information efficiently.
 
-### 🛠 Major Features
+### ✨ Features
 
-* 🗣️ Voice-driven commands & interactions
-* 🌐 Web browsing shortcuts (YouTube, Google, Facebook)
-* 🎶 Media control (Play music on YouTube)
-* ⏰ Time & weather queries (e.g., "What’s the weather?")
-* 📜 Code generation requests (e.g., HTML, Python code)
-* 📰 Live news fetching and topic detection
-* 💻 System control (Open apps, shutdown, etc.)
-* 🌏 Full **English + Nepali language support**
+* 🤖 AI-powered conversational workspace
+* 📄 Intelligent document upload & summarization
+* 📝 Smart note creation and organization
+* 📧 Natural language email understanding
+* 🧠 Long-term memory with semantic search
+* 🔍 AI-assisted research workflows
+* ✅ Task management with natural language
+* 📅 Calendar integration
+* 💬 Unified chat interface
+* 🔒 Runs with local AI models using Ollama
 
-🔗 Repository: [SahayogiV2](https://github.com/umangthapa1/SahayogiV2)
+### 🛠 Tech Stack
+
+```bash
+Frontend  : HTML, CSS, JavaScript
+Backend   : FastAPI
+Database  : SQLite
+AI        : Ollama, Local LLMs
+Embedding : Semantic Search & NLP
+```
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=umangthapa1&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -81,59 +88,65 @@ $ about S.A.H.A.Y.O.G.I
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=umangthapa1&theme=tokyonight&hide_border=true" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com?user=umangthapa1&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🐍 Contribution Graph Snake
+# 🐍 Contribution Graph Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/umangthapa1/umangthapa1/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-## 📂 Projects (CLI Style)
+---
+
+# 📂 Featured Projects
 
 ```bash
-$ ls featured
+$ ls projects
 
-autotyper
-gym-streak-tracker
-botbiruwa
+MINDBASE
 SahayogiV2
+BotBiruwa
+Gym-Streak-Tracker
+AutoTyper
 ```
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 ```bash
 $ connect --all
 ```
 
-* 🌍 Portfolio  : [https://httpsumang.vercel.app/](https://httpsumang.vercel.app/)
-* 💬 Discord    : [https://discord.gg/fajNNSGKCA](https://discord.gg/fajNNSGKCA)
-* 🐙 GitHub     : [https://github.com/umangthapa1](https://github.com/umangthapa1)
-
----
-## 💬 Discord Community
-
-**Coder’s Hub** – A place for coders to hang out & collaborate 👨‍💻👩‍💻
-
-![Discord Online](https://img.shields.io/discord/1125766513375334461?color=7289da&label=Online&logo=discord&logoColor=white&style=for-the-badge)
-
-🔗 [Join the Community](https://discord.gg/fajNNSGKCA)
+* 🌍 Portfolio: https://httpsumang.vercel.app
+* 🐙 GitHub: https://github.com/umangthapa1
+* 💬 Discord: https://discord.gg/fajNNSGKCA
 
 ---
 
-## 🔥 2026 Roadmap
+# 💬 Discord Community
 
-* [ ] Expand S.A.H.A.Y.O.G.I into full AI ecosystem
-* [ ] Add NLP enhancements
-* [ ] Build production-grade web apps
+**Coder's Hub** — A community where developers learn, build, and collaborate together.
+
+![Discord Online](https://img.shields.io/discord/1125766513375334461?color=7289da\&label=Online\&logo=discord\&logoColor=white\&style=for-the-badge)
+
+🔗 https://discord.gg/fajNNSGKCA
+
+---
+
+# 🎯 Current Goals
+
+* [ ] Continue expanding MINDBASE into a complete AI workspace
+* [ ] Build more production-ready AI applications
+* [ ] Contribute more to open source
+* [ ] Learn advanced LLM and agent architectures
+* [ ] Improve UI/UX and developer experience
 
 ---
 
 <p align="center">
-  <b>"Build. Break. Improve. Repeat."</b>
+  <b>"Build tools that make thinking easier."</b>
 </p>
