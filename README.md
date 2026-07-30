@@ -1,99 +1,151 @@
-# ⚡ Umang Thapa — Developer & AI Builder
+# ⚡ Umang Thapa
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+Builder;Python+%7C+JavaScript;Building+MINDBASE;Open+Source+Enthusiast+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+Builder;Full-Stack+Developer;Building+MINDBASE;Open+Source+Enthusiast;Python+%7C+JavaScript+%7C+FastAPI" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=umangthapa1&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
+<p align="center">
+  <strong>Building open-source AI tools that make knowledge searchable, organized, and useful.</strong>
+</p>
+
 ---
 
-# 🧠 About Me
+# 🧠 Currently Building
 
 ```bash
-> whoami
-Umang Thapa
-Full-Stack Developer & AI Builder
-Based in Nepal 🇳🇵
+$ status
 
-> current_focus
-Building MINDBASE
-Exploring Local AI & Agentic Systems
-Creating productivity tools
+Project      : MINDBASE
+Role         : Full-Stack Developer
+Location     : Nepal 🇳🇵
+
+Current Focus
+─────────────
+• Local AI & LLMs
+• Natural Language Interfaces
+• Productivity Software
+• Intelligent Automation
 ```
 
-I enjoy building **AI-powered applications, developer tools, and productivity software** that solve real-world problems. My interests include local LLMs, intelligent agents, automation, and designing software that feels fast, intuitive, and useful.
+MINDBASE is an **AI-powered personal workspace** designed to replace scattered productivity tools with one intelligent interface. It combines conversations, documents, notes, email, memory, research, and tasks into a single AI-powered workspace that understands natural language.
 
 ---
 
-# 🛠️ Tech Stack
+# ✨ What MINDBASE Can Do
+
+```text
+You can simply ask:
+
+"Summarize my latest emails."
+
+"What tasks are due tomorrow?"
+
+"Find my notes about FastAPI."
+
+"Summarize this PDF."
+
+"Remember this for later."
+
+"Research local LLMs."
+
+Instead of navigating different apps, everything happens through one conversation.
+```
+
+---
+
+# ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,typescript,nodejs,fastapi,html,css,sqlite,git,linux,docker,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,typescript,fastapi,nodejs,sqlite,git,docker,linux,vscode&theme=dark" />
 </p>
 
 ```bash
-Languages   : Python, JavaScript, TypeScript
-Backend     : FastAPI, SQLite
-Frontend    : HTML, CSS, JavaScript
-AI          : Ollama, Local LLMs, NLP, RAG
-Tools       : Git, Docker, Linux, VS Code
-Focus       : AI, Productivity, Automation
+Languages
+├── Python
+├── JavaScript
+└── TypeScript
+
+Backend
+├── FastAPI
+├── SQLite
+└── REST APIs
+
+AI
+├── Ollama
+├── Local LLMs
+├── NLP
+└── Semantic Search
+
+Tools
+├── Git
+├── Docker
+├── Linux
+└── VS Code
 ```
 
 ---
 
-# 🚀 Featured Project — MINDBASE
+# 🚀 Current Features
 
-```bash
-$ about mindbase
-```
-
-**MINDBASE** is an **AI-powered personal workspace** that combines chat, notes, documents, email, research, memory, and task management into a single intelligent interface.
-
-Instead of switching between multiple apps, MINDBASE acts as a centralized AI workspace that understands natural language and helps organize information efficiently.
-
-### ✨ Features
-
-* 🤖 AI-powered conversational workspace
-* 📄 Intelligent document upload & summarization
-* 📝 Smart note creation and organization
-* 📧 Natural language email understanding
-* 🧠 Long-term memory with semantic search
-* 🔍 AI-assisted research workflows
-* ✅ Task management with natural language
+* 🤖 Conversational AI workspace
+* 📄 AI document summarization
+* 📧 Natural language email assistant
+* 📝 Smart notes
+* 🧠 Long-term memory
+* 🔍 AI research assistant
+* ✅ Task management
 * 📅 Calendar integration
 * 💬 Unified chat interface
-* 🔒 Runs with local AI models using Ollama
+* 🔒 Local AI support with Ollama
 
-### 🛠 Tech Stack
+---
 
-```bash
-Frontend  : HTML, CSS, JavaScript
-Backend   : FastAPI
-Database  : SQLite
-AI        : Ollama, Local LLMs
-Embedding : Semantic Search & NLP
+# 📂 Featured Projects
+
+```text
+🧠 MINDBASE
+An AI-powered workspace for chat, documents,
+notes, memory, email, research, and tasks.
+
+🎙️ Sahayogi
+Desktop multilingual AI voice assistant.
+
+💪 Gym Streak Tracker
+Fitness progress tracking application.
 ```
 
 ---
 
-# 📊 GitHub Analytics
+# 🛣️ 2026 Roadmap
+
+* [x] AI Chat
+* [x] Notes
+* [x] Documents
+* [x] Email Intelligence
+* [x] Memory System
+* [x] Research Assistant
+* [x] Task Management
+* [ ] Multi-Agent Workflows
+* [ ] Voice Interface
+* [ ] Plugin System
+* [ ] Mobile Companion
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=umangthapa1&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=umangthapa1&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=umangthapa1&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
-# 🐍 Contribution Graph Snake
+# 🐍 Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/umangthapa1/umangthapa1/output/github-contribution-grid-snake-dark.svg" />
@@ -101,52 +153,26 @@ Embedding : Semantic Search & NLP
 
 ---
 
-# 📂 Featured Projects
+# 🌐 Connect
 
 ```bash
-$ ls projects
+$ connect
 
-MINDBASE
-SahayogiV2
-BotBiruwa
-Gym-Streak-Tracker
-AutoTyper
+Portfolio : https://httpsumang.vercel.app
+GitHub    : https://github.com/umangthapa1
+Discord   : https://discord.gg/fajNNSGKCA
 ```
 
 ---
 
-# 🌐 Connect With Me
+# 💬 Community
 
-```bash
-$ connect --all
-```
-
-* 🌍 Portfolio: https://httpsumang.vercel.app
-* 🐙 GitHub: https://github.com/umangthapa1
-* 💬 Discord: https://discord.gg/fajNNSGKCA
-
----
-
-# 💬 Discord Community
-
-**Coder's Hub** — A community where developers learn, build, and collaborate together.
-
-![Discord Online](https://img.shields.io/discord/1125766513375334461?color=7289da\&label=Online\&logo=discord\&logoColor=white\&style=for-the-badge)
+**Coder's Hub** — A Discord community where developers learn, build, and collaborate.
 
 🔗 https://discord.gg/fajNNSGKCA
 
 ---
 
-# 🎯 Current Goals
-
-* [ ] Continue expanding MINDBASE into a complete AI workspace
-* [ ] Build more production-ready AI applications
-* [ ] Contribute more to open source
-* [ ] Learn advanced LLM and agent architectures
-* [ ] Improve UI/UX and developer experience
-
----
-
 <p align="center">
-  <b>"Build tools that make thinking easier."</b>
+  <strong>"Software should remove friction, not add it."</strong>
 </p>
