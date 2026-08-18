@@ -246,7 +246,7 @@ I'm actively trying to strengthen my **computer science fundamentals** while con
 [ ] Voice Interface
 [ ] Plugin System
 [ ] MINDBASE Mobile Companion
-[ ] More Open Source Contributions
+[x] More Open Source Contributions
 [ ] Build software people actually use
 ```
 
